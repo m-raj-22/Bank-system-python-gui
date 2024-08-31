@@ -22,11 +22,10 @@ This is a Python-based GUI project that simulates a bank management system with 
 - **File Handling**: Data is stored in text files, mimicking a database.
 
 ## Project Structure
-```
+
 - **/database**: Contains the customer and admin data stored in text files.
 - **/images**: Stores images used in the GUI.
 - **mainProject.py**: The main Python file that contains all the functionalities of the application.
-```
 
 
 ## Data Storage
